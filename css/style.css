@@ -1,3 +1,15 @@
-#content{
-    height: 100px;
+hr{
+    height: 2px;
+}
+.aw-hr-short{
+    width: 180px;
+    height: 3px;
+    background-color: #dc3545;
+    margin:0px;
+
+}
+@media (min-width: 1200px) {
+    .container-fluid {
+        max-width: 1140px;
+    }
 }
