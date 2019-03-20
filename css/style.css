@@ -8,6 +8,13 @@ hr{
     margin:0px;
 
 }
+.aw-wrapper{
+    padding: 0 20%;
+}
+.aw-hr-long{
+    height: 3px;
+    background-color: #dc3545;
+}
 @media (min-width: 1200px) {
     .container-fluid {
         max-width: 1140px;
